@@ -1,0 +1,20 @@
+# Local/source data — obtain from the official Mendeley Data record.
+original_dataset.csv
+cleaned_reproducible_dataset.csv
+model_ready_reproducible_dataset.csv
+
+# Python/cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local generated outputs
+results/*_current_environment.csv
+results/environment_versions.json
+figures/*.png
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

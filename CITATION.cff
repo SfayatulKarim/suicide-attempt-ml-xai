@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and the source dataset."
+title: "AI for Retrospective Classification of Documented Suicide-Attempt History"
+type: software
+version: "1.0.0"
+date-released: 2026-09-30
+license: MIT
+authors:
+  - family-names: Karim
+    given-names: Safayatul
+    affiliation: "Department of Computer Science and Engineering, Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar, India"
+repository-code: "https://github.com/SFayatulKarim/suicide-attempt-ml-xai"
