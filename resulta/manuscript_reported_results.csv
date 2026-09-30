@@ -1,0 +1,6 @@
+Analysis,Model,Accuracy,Precision,Recall,Specificity,F1,ROC-AUC,AP,Brier
+Primary test,Logistic Regression,0.9821,1.0000,0.9640,1.0000,0.9817,0.9983,0.9984,0.0147
+Primary test,Decision Tree,0.9777,0.9732,0.9820,0.9735,0.9776,0.9886,0.9773,0.0169
+Primary test,Random Forest,0.9821,0.9735,0.9910,0.9735,0.9821,0.9992,0.9992,0.0193
+Primary test,SVM,0.9777,0.9818,0.9730,0.9823,0.9774,0.9987,0.9987,0.0143
+Primary test,XGBoost,0.9866,0.9737,1.0000,0.9735,0.9867,0.9984,0.9983,0.0122
